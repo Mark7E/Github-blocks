@@ -5,16 +5,38 @@
 
 
 .container {
-    width: 900px;
-    color: grey;
-    margin: 0px auto;
-    display: block;
-}
-
-.main {
-    width:300px;
-    background-color: hotpink;
+    width: 1250px;
+    background-color: burlywood;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 2%;
+    padding: 1%;
     
+    
+}
+#container1 {
+    width: 1250px;
+    background-color: rgb(78, 108, 207);
+    padding: 1%;
+    display:flex;
+    align-items: center;
+    justify-content:space-evenly;
+    margin: 2%;
+}
+#container2 {
+    width: 1250px;
+    background-color: rgb(151, 58, 228);
+    display:flex;
+    align-items: center;
+    justify-content:space-evenly;
+    margin: 2%;
+    padding: 1%;
+}
 
+#img1 {
+
+height: 180px;
 
 }
+
